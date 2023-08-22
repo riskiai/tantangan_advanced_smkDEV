@@ -4,5 +4,8 @@ NAMA : RISKI AHMAD ILHAM
 
 Saya Menggunakan Bahasa Pemograman Javascript
 
-soal tantangan
+SOAL TANTANGAN :
+![alt text](https://github.com/riskiai/tantangan_advanced_smkDEV/blob/main/image/tantangan.png?raw=true)
+
+HASIL TANTANGAN :
 ![alt text](?raw=true)
