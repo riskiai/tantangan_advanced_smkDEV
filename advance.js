@@ -1,9 +1,9 @@
 const baris = 5;
 
 for (let i = baris; i >= 1; i--) {
-    let rowOutput = '';
+    let outputbaris = '';
     for (let j = i; j >= 1; j--) {
-        rowOutput += j + ' ';
+        outputbaris += j + ' ';
     }
-    console.log(rowOutput);
+    console.log(outputbaris);
 }
