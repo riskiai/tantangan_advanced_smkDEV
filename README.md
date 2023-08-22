@@ -8,4 +8,4 @@ SOAL TANTANGAN :
 ![alt text](https://github.com/riskiai/tantangan_advanced_smkDEV/blob/main/image/tantangan.png?raw=true)
 
 HASIL TANTANGAN :
-![alt text](?raw=true)
+![alt text](https://github.com/riskiai/tantangan_advanced_smkDEV/blob/main/image/hasil%20tantangan.png?raw=true)
